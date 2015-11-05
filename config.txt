@@ -1,3 +1,7 @@
 this is config file
+<<<<<<< HEAD
 lalal
 trololo
+=======
+lalal
+>>>>>>> origin/feature_0.0.1
