@@ -1,4 +1,4 @@
 this is config file
 lalal
 trololo
-addition config setting
+addition config setting -debug
