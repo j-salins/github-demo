@@ -2,3 +2,4 @@ this is config file
 lalal
 trololo
 addition config setting -debug -active
+newline
