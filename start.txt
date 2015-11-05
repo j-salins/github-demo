@@ -1,1 +1,2 @@
-test git quickstart demo master!!!
+test git quickstart demo master!
+second master line!!
