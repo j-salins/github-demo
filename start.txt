@@ -2,4 +2,4 @@ test git quickstart demo master!
 second master line!!
 second feature
 command!
-endline
+endline!
